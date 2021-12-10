@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTableWithEntityyFramework", "CreateTableWithEntityyFramework\CreateTableWithEntityyFramework.csproj", "{61E00448-3546-4828-8353-3E941BEC0975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E00448-3546-4828-8353-3E941BEC0975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E00448-3546-4828-8353-3E941BEC0975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E00448-3546-4828-8353-3E941BEC0975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E00448-3546-4828-8353-3E941BEC0975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C812DC5E-6604-4AF1-B8DC-2CFF2FCA3CF1}
+	EndGlobalSection
+EndGlobal
